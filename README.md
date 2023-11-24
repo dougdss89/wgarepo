@@ -1,2 +1,2 @@
 # wgarepo
-Repositório do projeto WorldGeek Adventures
+WordGeek Adventures repository

@@ -75,3 +75,28 @@ Para isso, contratou uma consultoria especializada em desenvolvimento de projeto
 Este projeto tem o objetivo de desenvolver um pipeline completo de dados contemplando as etapas de extração, transformação e carga (ELT).
 
 Ao final, entregaremos as duas fontes de dados unificadas para que a WGA consiga extrair informações valiosas de seus clientes e planejar suas ações de Marketing e Vendas para expandir sua marca globalmente.
+
+# FASES DO PROJETO
+
+FASE 1 → Consolidar o Data Warehouse das duas organizações.
+
+Etapa 0 → identificação das principais áreas de negócio das empresas;
+
+Etapa 1 → documentação das tabelas que formarão as dimensões e fatos;
+
+Etapa 2 → desenvolvimento do modelo dimensional do Data Warehouse;
+  Etapa 2.1 → modelo dimensional da AdventureFitness.
+  Etapa 2.2 → modelo dimensional da WideWorldGeek.
+
+Etapa 3 → ELT AdventureFitness:
+  Etapa 3.1 → extração dos dados nas fontes documentadas na etapa 1;
+  Etapa 3.2 → transformação dos dados extraídos;
+  Etapa 3.3 → carga dos dados extraídos no DW.
+
+Etapa 4 → ELT WideWorldGeek:
+  Etapa 4.1 → extração dos dados nas fontes documentadas na etapa 1;
+  Etapa 4.2 → transformação dos dados extraídos;
+  Etapa 4.3 → carga dos dados extraídos no DW.
+
+Etapa 5 → Fim da Fase 1 e entrega dos DW’s consolidados.
+

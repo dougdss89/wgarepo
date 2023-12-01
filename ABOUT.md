@@ -18,6 +18,44 @@ The aimd of this project is to develop a complete data pipeline covering the ext
 
 In the end, we will deliver a unified data source so that WorldGeekAdventure can extract valuable information from its customers, plan marketing and Sales actions and expand its brand globally.
 
+# PROJECT PHASES
+
+At the beginning, four main phases were identified for the realization of the project:
+
+1 - Consolidating data sources into a single unit;
+2 - Unificating data sources into a single one;
+3 - Delivery data to a data visulization tool;
+4 - Closing project and lessons learned.
+
+The phases may changes depending on new needs or business oportunities.
+
+We start with first phase, breaking the work into smaller, easy-to-manage parts.
+
+Once completed, we will moving on to the next phase.
+
+# PHASE 1 - Consolidate the Data Warehouse of two organizations.
+
+Stage 0 - # indentifying companie's main business area;
+
+Stage 1 - # documenting dimension tables;
+
+Stage 2 - # developing dimensional modeling;
+  Stage 2.1 - Adventure Fitness dimensional model;
+  Stage 2.2 - WideWorldGeek dimensional model.
+
+Stage 3 - # ELT Adventure Fitness
+  Stage 3.1 - data extraction documented in step 1;
+  Stage 3.2 - transforming extracted data;
+  Stage 3.3 - loading extracted data into data warehouse.
+
+Stage 4 - # ELT WideWorldGeek
+  Stage 4.1 - data extraction documented in step 1;
+  Stage 4.2 - transforming extracted data;
+  Stage 4.3 - loading extracted data into data warehouse.
+
+Stage 5 - End of Phase 1 and delivery data warehouse.
+
+
 # ________________________________________________________________________
 
 # PT - BR

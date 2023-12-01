@@ -23,8 +23,11 @@ In the end, we will deliver a unified data source so that WorldGeekAdventure can
 At the beginning, four main phases were identified for the realization of the project:
 
 1 - Consolidating data sources into a single unit;
+
 2 - Unificating data sources into a single one;
+
 3 - Delivery data to a data visulization tool;
+
 4 - Closing project and lessons learned.
 
 The phases may changes depending on new needs or business oportunities.
@@ -35,25 +38,33 @@ Once completed, we will moving on to the next phase.
 
 # PHASE 1 - Consolidate the Data Warehouse of two organizations.
 
-Stage 0 - # indentifying companie's main business area;
-
-Stage 1 - # documenting dimension tables;
-
-Stage 2 - # developing dimensional modeling;
-  Stage 2.1 - Adventure Fitness dimensional model;
-  Stage 2.2 - WideWorldGeek dimensional model.
-
-Stage 3 - # ELT Adventure Fitness
-  Stage 3.1 - data extraction documented in step 1;
-  Stage 3.2 - transforming extracted data;
-  Stage 3.3 - loading extracted data into data warehouse.
-
-Stage 4 - # ELT WideWorldGeek
-  Stage 4.1 - data extraction documented in step 1;
-  Stage 4.2 - transforming extracted data;
-  Stage 4.3 - loading extracted data into data warehouse.
-
-Stage 5 - End of Phase 1 and delivery data warehouse.
+    Stage 0 - # indentifying companie's main business area;
+    
+    Stage 1 - # documenting dimension tables;
+    
+    Stage 2 - # developing dimensional modeling;
+      
+        Stage 2.1 - Adventure Fitness dimensional model;
+        
+        Stage 2.2 - WideWorldGeek dimensional model.
+    
+    Stage 3 - # ELT Adventure Fitness
+    
+        Stage 3.1 - data extraction documented in step 1;
+        
+        Stage 3.2 - transforming extracted data;
+        
+        Stage 3.3 - loading extracted data into data warehouse.
+    
+    Stage 4 - # ELT WideWorldGeek
+    
+        Stage 4.1 - data extraction documented in step 1;
+        
+        Stage 4.2 - transforming extracted data;
+        
+        Stage 4.3 - loading extracted data into data warehouse.
+    
+    Stage 5 - End of Phase 1 and delivery data warehouse.
 
 
 # ________________________________________________________________________
@@ -78,25 +89,52 @@ Ao final, entregaremos as duas fontes de dados unificadas para que a WGA consiga
 
 # FASES DO PROJETO
 
+A princípio, foram detectadas quatro grandes fases para a entrega do projeto, que são:
+
+1 - Consolidação dos Data Warehouses de forma unitária;
+
+2 - Unificação em um único repositório de dados;
+
+3 - Conexão e entrega na ferramenta de Visualização;
+
+4 - Conclusão do projeto.
+
+As fases podem sofrer alteração, dependendo de novas necessidades ou oportunidades de negócio.
+
+Abaixo, as etapas que constituem cada fase.
+
+Começamos pela primeira fase, dividindo o trabalho em etapas menores e fáceis de gerenciar.
+
+Após a conclusão, repetiremos o processo para as outras
+
+
 FASE 1 → Consolidar o Data Warehouse das duas organizações.
 
-Etapa 0 → identificação das principais áreas de negócio das empresas;
-
-Etapa 1 → documentação das tabelas que formarão as dimensões e fatos;
-
-Etapa 2 → desenvolvimento do modelo dimensional do Data Warehouse;
-  Etapa 2.1 → modelo dimensional da AdventureFitness.
-  Etapa 2.2 → modelo dimensional da WideWorldGeek.
-
-Etapa 3 → ELT AdventureFitness:
-  Etapa 3.1 → extração dos dados nas fontes documentadas na etapa 1;
-  Etapa 3.2 → transformação dos dados extraídos;
-  Etapa 3.3 → carga dos dados extraídos no DW.
-
-Etapa 4 → ELT WideWorldGeek:
-  Etapa 4.1 → extração dos dados nas fontes documentadas na etapa 1;
-  Etapa 4.2 → transformação dos dados extraídos;
-  Etapa 4.3 → carga dos dados extraídos no DW.
-
-Etapa 5 → Fim da Fase 1 e entrega dos DW’s consolidados.
-
+    Etapa 0 → identificação das principais áreas de negócio das empresas;
+    
+    Etapa 1 → documentação das tabelas que formarão as dimensões e fatos;
+    
+    Etapa 2 → desenvolvimento do modelo dimensional do Data Warehouse;
+      
+        Etapa 2.1 → modelo dimensional da AdventureFitness.
+        
+        Etapa 2.2 → modelo dimensional da WideWorldGeek.
+    
+    Etapa 3 → ELT AdventureFitness:
+      
+        Etapa 3.1 → extração dos dados nas fontes documentadas na etapa 1;
+        
+        Etapa 3.2 → transformação dos dados extraídos;
+        
+        Etapa 3.3 → carga dos dados extraídos no DW.
+    
+    Etapa 4 → ELT WideWorldGeek:
+    
+        Etapa 4.1 → extração dos dados nas fontes documentadas na etapa 1;
+        
+        Etapa 4.2 → transformação dos dados extraídos;
+        
+        Etapa 4.3 → carga dos dados extraídos no DW.
+    
+    Etapa 5 → Fim da Fase 1 e entrega dos DW’s consolidados.
+    

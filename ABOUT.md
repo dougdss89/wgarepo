@@ -12,6 +12,13 @@ To achieve this goal, they hired DataEngeneering consulting, a consultancy speci
 In order to Unify the main databases, they want to understand, retain and acquire new customers based on their data, as well as consolidating a data-driven culture.
 
 
+# GOALS
+
+The aimd of this project is to develop a complete data pipeline covering the extraction, transformation and loading (ELT) stages.
+
+In the end, we will deliver a unified data source so that WorldGeekAdventure can extract valuable information from its customers, plan marketing and Sales actions and expand its brand globally.
+
+# ________________________________________________________________________
 
 # VISÃO GERAL (PT-BR)
 
@@ -22,3 +29,9 @@ Após adquirir a empresa de artigos Geeks chamada WideWorldGeek, a AdventureFitn
 Com a formação da WorldGeekAdventure (WGA) a nova companhia que tinha forte atuação nos EUA, Europa e Oceania, agora pretende expandiar sua operação para mercados emergentes como LATAM, China e India,  assim como o Japão.
 
 Para isso, contratou uma consultoria especializada em desenvolvimento de projetos a DataEngineerConsulting (DEC), com o intuito de unificar as principais bases de dados e asssim, entender, reter e conquistar novos clientes.
+
+# OBJETIVO DO PROJETO
+
+Este projeto tem o objetivo de desenvolver um pipeline completo de dados contemplando as etapas de extração, transformação e carga (ELT).
+
+Ao final, entregaremos as duas fontes de dados unificadas para que a WGA consiga extrair informações valiosas de seus clientes e planejar suas ações de Marketing e Vendas para expandir sua marca globalmente.

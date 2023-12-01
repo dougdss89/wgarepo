@@ -20,7 +20,9 @@ In the end, we will deliver a unified data source so that WorldGeekAdventure can
 
 # ________________________________________________________________________
 
-# VISÃO GERAL (PT-BR)
+# PT - BR
+
+# VISÃO GERAL
 
 A organização AdventureFitness deseja padronizar sua operação global de venda de artigos esportivos e nerd-tech, criando um novo nicho de mercado chamado Nerd & Tech Fitness Health.
 

@@ -65,3 +65,7 @@ To upload the databases to PostgreSQL, use the files:
   - dw_wideworld
 
 Thank you for your watching!
+
+# LiNK
+
+https://drive.google.com/drive/folders/1dw7fwB9hsgc0sjUspzBVMcetywIdfRNf?usp=sharing

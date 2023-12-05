@@ -26,6 +26,11 @@ Esses arquivos são para restaurar no banco PostgreSQL.
 
 Para migrar para o SGBD, utilizei o Airbyte, ferramenta de ELT.
 
+Para subir as bases no PostgreSQL use os arquivos:
+
+  - wideworld_hml
+  - dw_wideworld
+
 # ENGLISH
 
 Below are the links to the data sources used in the project.
@@ -36,3 +41,27 @@ You'll find both, "raw" version and final version, i.e, the processed data.
 
 Restore the databases and have fun.
 
+# SQL SERVER
+
+To upload the databases to SQL Server, use these files:
+
+  - dwadvworks_prd
+  - dwadvoworks_hml
+
+The HML is "raw", with no processing or anything. The PRD, on the other hand has processed data.
+Both come from Microsoft's AdventureWorks database.
+
+# POSTGRESQL
+
+The dw_wideworld and wideworld_hml files come from WideWorldImporters, also from Microsoft.
+
+These files are for restoring to the PostgreSQL database.
+
+To migrate to the DBMS, i used Airbyte, an ELT tool.
+
+To upload the databases to PostgreSQL, use the files:
+
+  - wideworld_hml
+  - dw_wideworld
+
+Thank you for your watching!
